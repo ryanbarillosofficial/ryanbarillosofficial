@@ -1,9 +1,9 @@
 <h1>Official GitHub Profile of Ryan Barillos!</h1>
-I honestly don't know what else to add LOL 😂
+Here, you will find my software projects.
 
-I'll think of something in another day.
+From websites to applications, you will find them all here.
 
-But anyway, God bless you! And have a great day.
+God bless you! And have a great day ✨
 
 👇 And enjoy looking through my projects below 👇
 <!---
