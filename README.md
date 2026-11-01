@@ -1,11 +1,20 @@
 <h1>Official GitHub Profile of Ryan Barillos!</h1>
-Here, you will find my software projects.
 
-From websites to applications, you will find them all here.
+Here you'll find a couple of my works:
 
-God bless you! And have a great day ✨
+- School / college projects
+- Forks of other GitHub projects that interests me
 
-👇 And enjoy looking through my projects below 👇
+------
+
+### However, you'll find all my latest open-source works on GitLab
+
+👇 You can find them here 👇
+
+- [My GitLab profile](https://gitlab.com/ryanbarillosofficial)
+
+
+
 <!---
 ryanbarillosofficial/ryanbarillosofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
