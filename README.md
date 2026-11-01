@@ -1,9 +1,11 @@
 <h1>Official GitHub Profile of Ryan Barillos!</h1>
 
-Here you'll find a couple of my works:
+Here you'll find a couple of things:
 
-- School / college projects
+- my legacy personal projects
+- my school / college projects
 - Forks of other GitHub projects that interests me
+- My participation on other GitHub projects (still active here)
 
 ------
 
